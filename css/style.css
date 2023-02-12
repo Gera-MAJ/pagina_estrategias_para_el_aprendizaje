@@ -27,10 +27,11 @@
     grid-column: 1 / span 2;
     padding: 10px;
     margin: 20px;
-    background-color: rgb(190, 142, 219);
+    background-color: rgb(149, 85, 189);
 }
     .section1 h2 {
         text-align: center;
+        color: aliceblue;
     }
 
 .section2 {
